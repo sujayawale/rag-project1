@@ -1,0 +1,10 @@
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langgraph
+langchain-google-genai
+faiss-cpu
+docx2txt
+python-dotenv
+# ipykernal
